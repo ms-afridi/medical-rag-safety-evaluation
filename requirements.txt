@@ -1,0 +1,11 @@
+python-dotenv
+pandas
+openpyxl
+langchain
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+groq
