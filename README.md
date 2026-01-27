@@ -309,4 +309,4 @@ Email: msafridi1919@gmail.com
 
 ---
 
-**Note:** This research was conducted independently as part of a master's thesis to demonstrate research capability for PhD applications abroad.
+**Note:** This research was conducted independently to demonstrate research capability.
