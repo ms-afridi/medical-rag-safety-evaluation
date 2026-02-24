@@ -250,7 +250,7 @@ medical-rag-safety-evaluation/
 ### Evaluation
 - **Manual annotation** by single expert evaluator
 - **Dimensions:** Hallucination severity, guideline alignment, refusal behavior
-- **Total responses:** 200 (2 models × 2 conditions × 50 questions)
+- **Total responses:** 100 (2 models × 2 conditions × 25 questions)
 
 ---
 
